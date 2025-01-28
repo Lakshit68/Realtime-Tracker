@@ -9,6 +9,6 @@ html,body{
 }
 
 #map {
-    height: 400px;
-    width: 400px;
+    height: 100vw;
+    width: 100vw;
 }
